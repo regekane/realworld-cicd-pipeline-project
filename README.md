@@ -195,7 +195,7 @@
 
 ### Setup Splunk Server and Configure Forwarders
 #### A) SSH into your `Splunk Server` including `Dev`, `Stage` and `Prod` Instances to Configure Splunk
-- **NOTE:** Execute and Perform all operations across all your `Dev, Stage and Prod` Environments
+- **NOTE:** Execute and Perform all operations across all your `Dev, Stage and Prod` Environments ***only install splunk on splunk server
 - **NOTE:** Run all commands and queries across all your VMs (Dev, Stage and Prod)
     - Download the Splunk RPM installer package for Linux
     ```bash
